@@ -1,0 +1,32 @@
+Deck(Script attached to the Deck Objects in game it holds a colection of cards for the players to draw)
+
+- (Deck)public void OnPointerClick 
+    - oboslete method created to allow on click deck draws removed functionality because it proved problematic left in potentialy for later use
+
+-  public GameObject findHand
+    helper function used with the OnPointerClick function no longer used left if like the OnPointerClick potentialy for later use 
+
+- public void DeckIsEmpty()
+    not yet implemented will triger when deck.cards.count = 0 and will take the discard "deck" as an argument and rebuild the deck
+
+- public void shuffle()
+    basic sudo random card shuffle re-orders the complete deck
+
+Dropzone(More abstract script curently underdevloped needs retweeking for practical aplication)
+ 
+implemnted but Bairly needs a full re-tool
+
+Hand(specalized dropzone attached to both players and the game board)
+
+- public void AssignPlayer()
+    Simple helper function that will assing a player ID to a hand esentialy binding the two 
+
+- public void dealHand()*
+    dealHand takes in a deck as an argument and then deals the Set hand "Size" which is a preset int to the the hand that calls the method
+    deal hand then instantiates GameObject prefabs and removes them from the master deck moving them to the hand that calld the method
+
+- public void Draw()*
+    same as deal hand but only deals one card
+
+    * could be one function that takes an int but for now this works fine also this requires fewer Magic numbers in the controler and is easy 
+    to change for testing

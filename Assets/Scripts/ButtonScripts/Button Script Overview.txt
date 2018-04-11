@@ -1,0 +1,18 @@
+Button Script (General Purpose Button scripts that are used in game )
+
+- Public Void end() 
+	function that can be attached to a end turn object that is attached int he main game controler 
+	this will triger the players turn is overthis allows a player as long as they neeed to conduct 
+	any actions that are legal
+
+- public void endTurnTournement()
+	not yet implemented
+
+
+- public void Join() and public void Decline() 
+	thease two functions operate the same they both call the tournment game controlers join function 
+	they sumply send difrent choices to the join function could be combined dont but realisticly doubfull
+	if refactoring into one function would save much code maybe one line but would then ned a control if statmnet
+
+MainMenuButtonManager(Specalized Button scripts that are used with the UI)
+

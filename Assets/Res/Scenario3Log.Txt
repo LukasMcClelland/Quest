@@ -1,0 +1,637 @@
+Action Log: Player Deal
+Action log: Deal CardGiant Boar
+Action log: Deal CardCorsair Dagger
+Action log: Deal CardSaxon Savage
+Action log: Deal CardSaxon Knight
+Action log: Deal CardLion Horse
+Action log: Deal CardMy Lady
+Action log: Deal CardLion Horse
+Action log: Deal CardExcaliber
+Action log: Deal CardLance of Light
+Action log: Deal CardGoblin Thieves
+Action log: Deal CardFrost Giant
+Action log: Deal CardLion Horse
+Action log: Deal CardLady Iseult
+Action log: Deal CardFallen Knight
+Action log: Deal CardFrost Giant
+Action log: Deal CardMy Lady
+Action log: Deal CardMy Lady
+Action log: Deal CardSaxon Knight
+Action log: Deal CardSir Percival
+Action log: Deal CardMy Lady
+Action log: Deal CardRobber Knight
+Action log: Deal CardCorsair Dagger
+Action log: Deal CardLion Horse
+Action log: Deal CardExcaliber
+Action log: Deal CardRobber Knight
+Action log: Deal CardMordred
+Action log: Deal CardDragon
+Action log: Deal CardSaxon Knight
+Action log: Deal CardMy Lady
+Action log: Deal CardMy Lady
+Action log: Deal CardFrost Giant
+Action log: Deal CardDemon Blade
+Action log: Deal CardLion Horse
+Action log: Deal CardViking Batle Axe
+Action log: Deal CardLady Iseult
+Action log: Deal CardFallen Knight
+Action log: Deal CardLance of Light
+Action log: Deal CardLady Guinevere
+Action log: Deal CardThe Black Knight
+Action log: Deal CardMy Lady
+Action log: Deal CardMy Lady
+Action log: Deal CardCorsair Dagger
+Action log: Deal CardLance of Light
+Action log: Deal CardLion Horse
+Action log: Deal CardKing Pellinore
+Action log: Deal CardSir Galahad
+Action log: Deal CardViking Batle Axe
+Action log: Deal CardLance of Light
+Action Log: Create 4 Players
+Action Log: Player 1 Becomes Squire
+Action Log: Player 1 Becomes Squire
+Action Log: Player 1 Becomes Squire
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+Action Log: Player 2 Becomes Squire
+Action Log: Player 2 Becomes Squire
+Action Log: Player 2 Becomes Squire
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+Action Log: Player 3 Becomes Squire
+Action Log: Player 3 Becomes Squire
+Action Log: Player 3 Becomes Squire
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+Action Log: Player 4 Becomes Squire
+Action Log: Player 4 Becomes Squire
+Action Log: Player 4 Becomes Squire
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+UI Log: AI Set Player Image
+Action Log: Game Start
+Action Log: Create 4Human Players
+UI Log: Enable Block Screen
+UI Log: Update Info Zone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Player 1 turn start.
+Action Log: Disable Board Objects
+UI Log: Activate Player 1 Glow
+UI log: Disable Popup
+UI log: Pass Turn Button Presed
+Action Log: Player 1 turn end.
+Action Log: Story Card Search for the Holy Grail has Been Drawn
+Action Log: Discard Story CardSearch for the Holy Grail
+UI Log: Update Info Zone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Type of story card just drawn Quest
+Action Log: Running Quest
+Action Log: 4 player entering quest
+UI Log: Morph Player 1
+UI Log: Morph Player 2
+UI Log: Morph Player 3
+UI Log: Morph Player 4
+UI Log: Morph Player 1 Hand
+UI Log: Morph Player 2 Hand
+UI Log: Morph Player 3 Hand
+UI Log: Morph Player 4 Hand
+Action Log: Check For Winner
+Action Log: Disable Board Objects
+Action Log: Turn Changes
+UI Log: Activate Player 2 Glow
+UI log: Disable Popup
+UI log: Pass Turn Button Presed
+Action Log: Player, 1 has 5 foe or test cards
+Action Log: Player was eligible to sponsor
+UI log: Disable Popup
+UI log: Join/Sponsor Button Presed
+Action Log: 0 is willing to sponsor
+Action Log: 0 is sponsoring
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Giant Boar Is Selected
+UI Log: Dropzone Type QZone
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Goblin Thieves Is Selected
+UI Log: Dropzone Type QZone
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Corsair Dagger Is Selected
+UI Log: Dropzone Type QZone
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Saxon Savage Is Selected
+UI Log: Dropzone Type QZone
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Saxon Knight Is Selected
+UI Log: Dropzone Type QZone
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Frost Giant Is Selected
+UI Log: Dropzone Type QZone
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Excaliber Is Selected
+UI Log: Dropzone Type QZone
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Battle Points in Players Dropzone
+UI Log: Quest zones have been approved
+UI log: Disable Popup
+UI log: Join/Sponsor Button Presed
+UI log: Disable Popup
+UI log: Decline Button Presed
+UI log: Disable Popup
+UI log: Join/Sponsor Button Presed
+Action Log: Quest starting with 3 players
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+UI Log: Morphing quest zone: 1
+UI Log: Morphing quest zone: 2
+UI Log: Morphing quest zone: 3
+UI Log: Morphing quest zone: 4
+UI Log: Morphing quest zone: 5
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Sir Percival Is Selected
+UI Log: Dropzone Type PlayerQZone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card King Pellinore Is Selected
+UI Log: Dropzone Type PlayerQZone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type PlayerQZone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+UI log: Pass Turn Button Presed
+Action Log: Starting stage number 1
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Excaliber Is Selected
+UI Log: Dropzone Type PlayerQZone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type PlayerQZone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lady Guinevere Is Selected
+UI Log: Dropzone Type PlayerQZone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lion Horse Is Selected
+UI Log: Dropzone Type PlayerQZone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+UI log: Pass Turn Button Presed
+Action Log: Starting stage number 2
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Pass Turn Button Presed
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Pass Turn Button Presed
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+UI log: Pass Turn Button Presed
+Action Log: Starting stage number 3
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Pass Turn Button Presed
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Pass Turn Button Presed
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+UI log: Pass Turn Button Presed
+Action Log: Starting stage number 4
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Pass Turn Button Presed
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Pass Turn Button Presed
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Battle Points in Players Dropzone
+Action log: Draw CardLance of Light
+UI log: Pass Turn Button Presed
+Action Log: Player 1 Gets Sheilds5
+Action Log: Player 1 Becomes Knight
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Sponsor Gets a Reward of 12
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+Action log: Draw CardLance of Light
+UI log: Disable Popup
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type DiscardQ
+Action Log: Discard Card Lance of Light
+UI log: Pass Turn Button Presed
+Action Log: Quest Concluded Naturaly
+Action Log: Return Control Q-Controller
+UI Log: Update Hands 
+UI Log: Update Player 01 hand
+UI Log: Update Player 11 hand
+UI Log: Update Player 21 hand
+UI Log: Update Player 31 hand
+UI Log: Update DropZones
+UI Log: Update Info Zone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Disable Board Objects
+UI log: Disable Popup
+UI log: Pass Turn Button Presed
+Action Log: Player 2 turn end.
+Action Log: Story Card Camelot has Been Drawn
+Action Log: Discard Story CardCamelot
+UI Log: Update Info Zone
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+Action log: Update Battle Points in Players Dropzone
+Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Type of story card just drawn Event
+Action Log: Running Event
+Action Log: Execute Event CardCamelot
+Action Log: Camelot Event Trigered
+Action Log: Check For Winner
+Action Log: Disable Board Objects
+Action Log: Disable Board Objects
+Action Log: Turn Changes
+UI Log: Activate Player 3 Glow
+UI log: Disable Popup

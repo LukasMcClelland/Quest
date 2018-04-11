@@ -1,0 +1,3093 @@
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Aggro Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Aggro Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Defensive Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Chivalrous Deed has Been Drawn
+90 Action Log: Discard Story CardChivalrous Deed
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Event
+103 Action Log: Running Event
+104 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 1 Gets Sheilds3
+Action Log: Player 2 Gets Sheilds3
+Action Log: Player 3 Gets Sheilds3
+Action Log: Player 4 Gets Sheilds3
+105 UI Log: Update Info Zone: 
+106 Action log: Update Battle Points in Players Dropzone
+107 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+108 Action log: Update Battle Points in Players Dropzone
+109 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+110 Action log: Update Battle Points in Players Dropzone
+111 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+112 Action log: Update Battle Points in Players Dropzone
+113 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+114 Action Log: Turn Changes
+115 Action Log: Check For Winner
+116 Action Log: Disable Board Objects
+117 UI Log: Activate Player 2 Glow
+118 AI Log: AI Player Draws Story Card
+119 Action Log: Player 2 turn end.
+120 Action Log: Story Card Plague has Been Drawn
+121 Action Log: Discard Story CardPlague
+122 UI Log: Update Info Zone: 
+123 Action log: Update Battle Points in Players Dropzone
+124 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+125 Action log: Update Battle Points in Players Dropzone
+126 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+127 Action log: Update Battle Points in Players Dropzone
+128 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+129 Action log: Update Battle Points in Players Dropzone
+130 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+131 Action Log: Disable Board Objects
+132 Action Log: Type of story card just drawn Event
+134 Action Log: Running Event
+135 Action Log: Execute Event CardPlague
+136 Action Log: Plague Event Trigered
+137 UI Log: Update Info Zone: 
+138 Action log: Update Battle Points in Players Dropzone
+139 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+140 Action log: Update Battle Points in Players Dropzone
+141 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+142 Action log: Update Battle Points in Players Dropzone
+143 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+144 Action log: Update Battle Points in Players Dropzone
+145 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+146 Action Log: Turn Changes
+147 Action Log: Check For Winner
+148 Action Log: Disable Board Objects
+149 UI Log: Activate Player 3 Glow
+150 AI Log: AI Player Draws Story Card
+151 Action Log: Player 3 turn end.
+152 Action Log: Story Card Chivalrous Deed has Been Drawn
+153 Action Log: Discard Story CardChivalrous Deed
+154 UI Log: Update Info Zone: 
+155 Action log: Update Battle Points in Players Dropzone
+156 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+157 Action log: Update Battle Points in Players Dropzone
+158 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+159 Action log: Update Battle Points in Players Dropzone
+160 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+161 Action log: Update Battle Points in Players Dropzone
+162 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+163 Action Log: Disable Board Objects
+164 Action Log: Type of story card just drawn Event
+166 Action Log: Running Event
+167 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 2 Gets Sheilds3
+168 UI Log: Update Info Zone: 
+169 Action log: Update Battle Points in Players Dropzone
+170 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+171 Action log: Update Battle Points in Players Dropzone
+172 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+173 Action log: Update Battle Points in Players Dropzone
+174 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+175 Action log: Update Battle Points in Players Dropzone
+176 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+177 Action Log: Turn Changes
+178 Action Log: Check For Winner
+179 Action Log: Disable Board Objects
+180 UI Log: Activate Player 4 Glow
+181 AI Log: AI Player Draws Story Card
+182 Action Log: Player 4 turn end.
+183 Action Log: Story Card King's Recognition has Been Drawn
+184 Action Log: Discard Story CardKing's Recognition
+185 UI Log: Update Info Zone: 
+186 Action log: Update Battle Points in Players Dropzone
+187 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+188 Action log: Update Battle Points in Players Dropzone
+189 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+190 Action log: Update Battle Points in Players Dropzone
+191 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+192 Action log: Update Battle Points in Players Dropzone
+193 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+194 Action Log: Disable Board Objects
+195 Action Log: Type of story card just drawn Event
+197 Action Log: Running Event
+198 Action Log: Execute Event CardKing's Recognition
+199 Action Log: King's Recognition Event Activated
+200 UI Log: Update Info Zone: 
+201 Action log: Update Battle Points in Players Dropzone
+202 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+203 Action log: Update Battle Points in Players Dropzone
+204 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+205 Action log: Update Battle Points in Players Dropzone
+206 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+207 Action log: Update Battle Points in Players Dropzone
+208 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+209 Action Log: Turn Changes
+210 Action Log: Check For Winner
+211 Action Log: Disable Board Objects
+212 UI Log: Activate Player 1 Glow
+213 Action Log: Disable Board Objects
+214 Action Log: Disable Board Objects
+215 Action Log: Disable Board Objects
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+216 Action Log: Player 1 turn end.
+217 Action Log: Story Card Queen's Favour has Been Drawn
+218 Action Log: Discard Story CardQueen's Favour
+219 UI Log: Update Info Zone: 
+220 Action log: Update Battle Points in Players Dropzone
+221 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+222 Action log: Update Battle Points in Players Dropzone
+223 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+224 Action log: Update Battle Points in Players Dropzone
+225 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+226 Action log: Update Battle Points in Players Dropzone
+227 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+228 Action Log: Disable Board Objects
+229 Action Log: Type of story card just drawn Event
+231 Action Log: Running Event
+232 Action Log: Execute Event CardQueen's Favour
+233 Action Log: Queens Favor Event Trigered
+234 Action log: Draw Card Lance of Light
+235 Action log: Draw Card Lance of Light
+236 Action log: Draw Card Lance of Light
+237 Action log: Draw Card Lance of Light
+238 Action log: Draw Card Lance of Light
+239 Action log: Draw Card Lance of Light
+240 Action log: Draw Card Lance of Light
+241 Action log: Draw Card Lance of Light
+242 UI Log: Update Info Zone: 
+243 Action log: Update Battle Points in Players Dropzone
+244 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+245 Action log: Update Battle Points in Players Dropzone
+246 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+247 Action log: Update Battle Points in Players Dropzone
+248 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+249 Action log: Update Battle Points in Players Dropzone
+250 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+251 Action Log: Turn Changes
+252 Action Log: Check For Winner
+253 Action Log: Disable Board Objects
+254 UI Log: Activate Player 2 Glow
+255 AI Log: AI Player Draws Story Card
+256 Action Log: Player 2 turn end.
+257 Action Log: Story Card King's Recognition has Been Drawn
+258 Action Log: Discard Story CardKing's Recognition
+259 UI Log: Update Info Zone: 
+260 Action log: Update Battle Points in Players Dropzone
+261 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+262 Action log: Update Battle Points in Players Dropzone
+263 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+264 Action log: Update Battle Points in Players Dropzone
+265 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+266 Action log: Update Battle Points in Players Dropzone
+267 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+268 Action Log: Disable Board Objects
+269 Action Log: Type of story card just drawn Event
+271 Action Log: Running Event
+272 Action Log: Execute Event CardKing's Recognition
+273 Action Log: King's Recognition Event Activated
+274 UI Log: Update Info Zone: 
+275 Action log: Update Battle Points in Players Dropzone
+276 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+277 Action log: Update Battle Points in Players Dropzone
+278 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+279 Action log: Update Battle Points in Players Dropzone
+280 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+281 Action log: Update Battle Points in Players Dropzone
+282 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+283 Action Log: Turn Changes
+284 Action Log: Check For Winner
+285 Action Log: Disable Board Objects
+286 UI Log: Activate Player 3 Glow
+287 AI Log: AI Player Draws Story Card
+288 Action Log: Player 3 turn end.
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Defensive Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Defensive Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Aggro Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Chivalrous Deed has Been Drawn
+90 Action Log: Discard Story CardChivalrous Deed
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Event
+103 Action Log: Running Event
+104 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 1 Gets Sheilds3
+Action Log: Player 2 Gets Sheilds3
+Action Log: Player 3 Gets Sheilds3
+Action Log: Player 4 Gets Sheilds3
+105 UI Log: Update Info Zone: 
+106 Action log: Update Battle Points in Players Dropzone
+107 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+108 Action log: Update Battle Points in Players Dropzone
+109 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+110 Action log: Update Battle Points in Players Dropzone
+111 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+112 Action log: Update Battle Points in Players Dropzone
+113 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+114 Action Log: Turn Changes
+115 Action Log: Check For Winner
+116 Action Log: Disable Board Objects
+117 UI Log: Activate Player 2 Glow
+118 AI Log: AI Player Draws Story Card
+119 Action Log: Player 2 turn end.
+120 Action Log: Story Card Plague has Been Drawn
+121 Action Log: Discard Story CardPlague
+122 UI Log: Update Info Zone: 
+123 Action log: Update Battle Points in Players Dropzone
+124 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+125 Action log: Update Battle Points in Players Dropzone
+126 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+127 Action log: Update Battle Points in Players Dropzone
+128 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+129 Action log: Update Battle Points in Players Dropzone
+130 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+131 Action Log: Disable Board Objects
+132 Action Log: Type of story card just drawn Event
+134 Action Log: Running Event
+135 Action Log: Execute Event CardPlague
+136 Action Log: Plague Event Trigered
+137 UI Log: Update Info Zone: 
+138 Action log: Update Battle Points in Players Dropzone
+139 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+140 Action log: Update Battle Points in Players Dropzone
+141 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+142 Action log: Update Battle Points in Players Dropzone
+143 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+144 Action log: Update Battle Points in Players Dropzone
+145 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+146 Action Log: Turn Changes
+147 Action Log: Check For Winner
+148 Action Log: Disable Board Objects
+149 UI Log: Activate Player 3 Glow
+150 AI Log: AI Player Draws Story Card
+151 Action Log: Player 3 turn end.
+152 Action Log: Story Card Chivalrous Deed has Been Drawn
+153 Action Log: Discard Story CardChivalrous Deed
+154 UI Log: Update Info Zone: 
+155 Action log: Update Battle Points in Players Dropzone
+156 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+157 Action log: Update Battle Points in Players Dropzone
+158 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+159 Action log: Update Battle Points in Players Dropzone
+160 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+161 Action log: Update Battle Points in Players Dropzone
+162 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+163 Action Log: Disable Board Objects
+164 Action Log: Type of story card just drawn Event
+166 Action Log: Running Event
+167 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 2 Gets Sheilds3
+168 UI Log: Update Info Zone: 
+169 Action log: Update Battle Points in Players Dropzone
+170 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+171 Action log: Update Battle Points in Players Dropzone
+172 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+173 Action log: Update Battle Points in Players Dropzone
+174 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+175 Action log: Update Battle Points in Players Dropzone
+176 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+177 Action Log: Turn Changes
+178 Action Log: Check For Winner
+179 Action Log: Disable Board Objects
+180 UI Log: Activate Player 4 Glow
+181 AI Log: AI Player Draws Story Card
+182 Action Log: Player 4 turn end.
+183 Action Log: Story Card King's Recognition has Been Drawn
+184 Action Log: Discard Story CardKing's Recognition
+185 UI Log: Update Info Zone: 
+186 Action log: Update Battle Points in Players Dropzone
+187 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+188 Action log: Update Battle Points in Players Dropzone
+189 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+190 Action log: Update Battle Points in Players Dropzone
+191 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+192 Action log: Update Battle Points in Players Dropzone
+193 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+194 Action Log: Disable Board Objects
+195 Action Log: Type of story card just drawn Event
+197 Action Log: Running Event
+198 Action Log: Execute Event CardKing's Recognition
+199 Action Log: King's Recognition Event Activated
+200 UI Log: Update Info Zone: 
+201 Action log: Update Battle Points in Players Dropzone
+202 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+203 Action log: Update Battle Points in Players Dropzone
+204 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+205 Action log: Update Battle Points in Players Dropzone
+206 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+207 Action log: Update Battle Points in Players Dropzone
+208 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+209 Action Log: Turn Changes
+210 Action Log: Check For Winner
+211 Action Log: Disable Board Objects
+212 UI Log: Activate Player 1 Glow
+213 Action Log: Disable Board Objects
+214 Action Log: Disable Board Objects
+215 Action Log: Disable Board Objects
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+216 Action Log: Player 1 turn end.
+217 Action Log: Story Card Queen's Favour has Been Drawn
+218 Action Log: Discard Story CardQueen's Favour
+219 UI Log: Update Info Zone: 
+220 Action log: Update Battle Points in Players Dropzone
+221 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+222 Action log: Update Battle Points in Players Dropzone
+223 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+224 Action log: Update Battle Points in Players Dropzone
+225 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+226 Action log: Update Battle Points in Players Dropzone
+227 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+228 Action Log: Disable Board Objects
+229 Action Log: Type of story card just drawn Event
+231 Action Log: Running Event
+232 Action Log: Execute Event CardQueen's Favour
+233 Action Log: Queens Favor Event Trigered
+234 Action log: Draw Card Lance of Light
+235 Action log: Draw Card Lance of Light
+236 Action log: Draw Card Lance of Light
+237 Action log: Draw Card Lance of Light
+238 Action log: Draw Card Lance of Light
+239 Action log: Draw Card Lance of Light
+240 Action log: Draw Card Lance of Light
+241 Action log: Draw Card Lance of Light
+242 UI Log: Update Info Zone: 
+243 Action log: Update Battle Points in Players Dropzone
+244 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+245 Action log: Update Battle Points in Players Dropzone
+246 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+247 Action log: Update Battle Points in Players Dropzone
+248 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+249 Action log: Update Battle Points in Players Dropzone
+250 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+251 Action Log: Turn Changes
+252 Action Log: Check For Winner
+253 Action Log: Disable Board Objects
+254 UI Log: Activate Player 2 Glow
+255 AI Log: AI Player Draws Story Card
+256 Action Log: Player 2 turn end.
+257 Action Log: Story Card King's Recognition has Been Drawn
+258 Action Log: Discard Story CardKing's Recognition
+259 UI Log: Update Info Zone: 
+260 Action log: Update Battle Points in Players Dropzone
+261 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+262 Action log: Update Battle Points in Players Dropzone
+263 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+264 Action log: Update Battle Points in Players Dropzone
+265 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+266 Action log: Update Battle Points in Players Dropzone
+267 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+268 Action Log: Disable Board Objects
+269 Action Log: Type of story card just drawn Event
+271 Action Log: Running Event
+272 Action Log: Execute Event CardKing's Recognition
+273 Action Log: King's Recognition Event Activated
+274 UI Log: Update Info Zone: 
+275 Action log: Update Battle Points in Players Dropzone
+276 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+277 Action log: Update Battle Points in Players Dropzone
+278 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+279 Action log: Update Battle Points in Players Dropzone
+280 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+281 Action log: Update Battle Points in Players Dropzone
+282 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+283 Action Log: Turn Changes
+284 Action Log: Check For Winner
+285 Action Log: Disable Board Objects
+286 UI Log: Activate Player 3 Glow
+287 AI Log: AI Player Draws Story Card
+288 Action Log: Player 3 turn end.
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Defensive Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Aggro Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Aggro Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Tournament at Camelot has Been Drawn
+90 Action Log: Discard Story CardTournament at Camelot
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Tournament
+103 Action Log: Enable Board Objects
+104 Action Log: Create New Tournament Started 
+UI Log: Disable All Dropzones
+105 UI Log: Update Info Zone: 
+106 Action log: Update Battle Points in Players Dropzone
+107 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+108 Action log: Update Battle Points in Players Dropzone
+109 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+110 Action log: Update Battle Points in Players Dropzone
+111 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+112 Action log: Update Battle Points in Players Dropzone
+113 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+114 UI Log: Activate Player 1 Glow
+115 Action Log: Running Tournament
+UI log: Grab Dragable Object
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI log: Release Dragable Object
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Aggro Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Aggro Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Defensive Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Boar Hunt has Been Drawn
+90 Action Log: Discard Story CardBoar Hunt
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Quest
+103 Action Log: Running Quest
+Action Log: 4 player entering quest
+UI Log: Disable All Dropzones
+104 UI Log: Update Info Zone: 
+105 Action log: Update Battle Points in Players Dropzone
+106 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+107 Action log: Update Battle Points in Players Dropzone
+108 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+109 Action log: Update Battle Points in Players Dropzone
+110 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+111 Action log: Update Battle Points in Players Dropzone
+112 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Disable Board Objects For All Except Current Player
+UI log: Sponsor Button Presed
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Goblin Thieves Is Selected
+UI Log: Dropzone Type QZone
+113 UI Log: Update Info Zone: 
+114 Action log: Update Battle Points in Players Dropzone
+115 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+116 Action log: Update Battle Points in Players Dropzone
+117 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+118 Action log: Update Battle Points in Players Dropzone
+119 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+120 Action log: Update Battle Points in Players Dropzone
+121 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Frost Giant Is Selected
+UI Log: Dropzone Type QZone
+122 UI Log: Update Info Zone: 
+123 Action log: Update Battle Points in Players Dropzone
+124 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+125 Action log: Update Battle Points in Players Dropzone
+126 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+127 Action log: Update Battle Points in Players Dropzone
+128 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+129 Action log: Update Battle Points in Players Dropzone
+130 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type QZone
+131 UI Log: Update Info Zone: 
+132 Action log: Update Battle Points in Players Dropzone
+133 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+134 Action log: Update Battle Points in Players Dropzone
+135 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+136 Action log: Update Battle Points in Players Dropzone
+137 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+138 Action log: Update Battle Points in Players Dropzone
+139 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+140 Action log: Update Battle Points in Players Dropzone
+141 Action log: Update Battle Points in Players Dropzone
+Action Log: Turn Changes
+142 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+143 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+144 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+145 Action log: Draw Card Lance of Light
+146 Action log: Draw Card Lance of Light
+147 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+148 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardMy Lady
+Action Log: Turn Changes
+149 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardMy Lady
+Action Log: Turn Changes
+150 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardLady Guinevere
+AI Log: Player 4 Plays CardMy Lady
+151 Action log: Update Battle Points in Players Dropzone
+152 Action log: Draw Card Lance of Light
+153 Action log: Update Battle Points in Players Dropzone
+154 Action log: Draw Card Lance of Light
+155 Action log: Update Battle Points in Players Dropzone
+156 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+157 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type PlayerQZone
+158 UI Log: Update Info Zone: 
+159 Action log: Update Battle Points in Players Dropzone
+160 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+161 Action log: Update Battle Points in Players Dropzone
+162 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+163 Action log: Update Battle Points in Players Dropzone
+164 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+165 Action log: Update Battle Points in Players Dropzone
+166 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+Action Log: Turn Changes
+167 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardExcaliber
+AI Log: Player 3 Plays CardDemon Blade
+AI Log: Player 3 Plays CardLion Horse
+AI Log: Player 3 Plays CardViking Batle Axe
+AI Log: Player 3 Plays CardLance of Light
+Action Log: Turn Changes
+168 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardKing Pellinore
+AI Log: Player 4 Plays CardSir Galahad
+169 Action log: Update Battle Points in Players Dropzone
+170 Action log: Update Battle Points in Players Dropzone
+171 Action log: Update Battle Points in Players Dropzone
+172 UI Log: Update Info Zone: 
+173 Action log: Update Battle Points in Players Dropzone
+174 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+175 Action log: Update Battle Points in Players Dropzone
+176 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+177 Action log: Update Battle Points in Players Dropzone
+178 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+179 Action log: Update Battle Points in Players Dropzone
+180 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Sponsor Gets a Reward of 5
+181 Action log: Draw Card Lance of Light
+182 Action log: Draw Card Lance of Light
+183 Action log: Draw Card Lance of Light
+184 Action log: Draw Card Lance of Light
+185 Action log: Draw Card Lance of Light
+186 UI Log: Update Info Zone: 
+187 Action log: Update Battle Points in Players Dropzone
+188 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+189 Action log: Update Battle Points in Players Dropzone
+190 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+191 Action log: Update Battle Points in Players Dropzone
+192 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+193 Action log: Update Battle Points in Players Dropzone
+194 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+195 Action Log: Return Control Q-Controller
+196 UI Log: Update Info Zone: 
+197 Action log: Update Battle Points in Players Dropzone
+198 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+199 Action log: Update Battle Points in Players Dropzone
+200 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+201 Action log: Update Battle Points in Players Dropzone
+202 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+203 Action log: Update Battle Points in Players Dropzone
+204 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+205 Action Log: Disable Board Objects
+206 UI Log: Activate Player 2 Glow
+207 Action Log: Check For Winner
+208 AI Log: AI Player Draws Story Card
+209 Action Log: Player 2 turn end.
+210 Action Log: Story Card Plague has Been Drawn
+211 Action Log: Discard Story CardPlague
+212 UI Log: Update Info Zone: 
+213 Action log: Update Battle Points in Players Dropzone
+214 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+215 Action log: Update Battle Points in Players Dropzone
+216 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+217 Action log: Update Battle Points in Players Dropzone
+218 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+219 Action log: Update Battle Points in Players Dropzone
+220 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+221 Action Log: Disable Board Objects
+222 Action Log: Type of story card just drawn Event
+224 Action Log: Running Event
+225 Action Log: Execute Event CardPlague
+226 Action Log: Plague Event Trigered
+227 UI Log: Update Info Zone: 
+228 Action log: Update Battle Points in Players Dropzone
+229 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+230 Action log: Update Battle Points in Players Dropzone
+231 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+232 Action log: Update Battle Points in Players Dropzone
+233 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+234 Action log: Update Battle Points in Players Dropzone
+235 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+236 Action Log: Turn Changes
+237 Action Log: Check For Winner
+238 Action Log: Disable Board Objects
+239 UI Log: Activate Player 3 Glow
+240 AI Log: AI Player Draws Story Card
+241 Action Log: Player 3 turn end.
+242 Action Log: Story Card Chivalrous Deed has Been Drawn
+243 Action Log: Discard Story CardChivalrous Deed
+244 UI Log: Update Info Zone: 
+245 Action log: Update Battle Points in Players Dropzone
+246 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+247 Action log: Update Battle Points in Players Dropzone
+248 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+249 Action log: Update Battle Points in Players Dropzone
+250 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+251 Action log: Update Battle Points in Players Dropzone
+252 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+253 Action Log: Disable Board Objects
+254 Action Log: Type of story card just drawn Event
+256 Action Log: Running Event
+257 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 1 Gets Sheilds3
+Action Log: Player 2 Gets Sheilds3
+Action Log: Player 3 Gets Sheilds3
+Action Log: Player 4 Gets Sheilds3
+258 UI Log: Update Info Zone: 
+259 Action log: Update Battle Points in Players Dropzone
+260 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+261 Action log: Update Battle Points in Players Dropzone
+262 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+263 Action log: Update Battle Points in Players Dropzone
+264 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+265 Action log: Update Battle Points in Players Dropzone
+266 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+267 Action Log: Turn Changes
+268 Action Log: Check For Winner
+269 Action Log: Disable Board Objects
+270 UI Log: Activate Player 4 Glow
+271 AI Log: AI Player Draws Story Card
+272 Action Log: Player 4 turn end.
+273 Action Log: Story Card King's Recognition has Been Drawn
+274 Action Log: Discard Story CardKing's Recognition
+275 UI Log: Update Info Zone: 
+276 Action log: Update Battle Points in Players Dropzone
+277 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+278 Action log: Update Battle Points in Players Dropzone
+279 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+280 Action log: Update Battle Points in Players Dropzone
+281 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+282 Action log: Update Battle Points in Players Dropzone
+283 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+284 Action Log: Disable Board Objects
+285 Action Log: Type of story card just drawn Event
+287 Action Log: Running Event
+288 Action Log: Execute Event CardKing's Recognition
+289 Action Log: King's Recognition Event Activated
+290 UI Log: Update Info Zone: 
+291 Action log: Update Battle Points in Players Dropzone
+292 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+293 Action log: Update Battle Points in Players Dropzone
+294 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+295 Action log: Update Battle Points in Players Dropzone
+296 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+297 Action log: Update Battle Points in Players Dropzone
+298 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+299 Action Log: Turn Changes
+300 Action Log: Check For Winner
+301 Action Log: Disable Board Objects
+302 UI Log: Activate Player 1 Glow
+303 Action Log: Disable Board Objects
+304 Action Log: Disable Board Objects
+305 Action Log: Disable Board Objects
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Aggro Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Aggro Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Aggro Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Boar Hunt has Been Drawn
+90 Action Log: Discard Story CardBoar Hunt
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Quest
+103 Action Log: Running Quest
+Action Log: 4 player entering quest
+UI Log: Disable All Dropzones
+104 UI Log: Update Info Zone: 
+105 Action log: Update Battle Points in Players Dropzone
+106 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+107 Action log: Update Battle Points in Players Dropzone
+108 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+109 Action log: Update Battle Points in Players Dropzone
+110 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+111 Action log: Update Battle Points in Players Dropzone
+112 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Disable Board Objects For All Except Current Player
+UI log: Sponsor Button Presed
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Goblin Thieves Is Selected
+UI Log: Dropzone Type QZone
+113 UI Log: Update Info Zone: 
+114 Action log: Update Battle Points in Players Dropzone
+115 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+116 Action log: Update Battle Points in Players Dropzone
+117 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+118 Action log: Update Battle Points in Players Dropzone
+119 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+120 Action log: Update Battle Points in Players Dropzone
+121 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Frost Giant Is Selected
+UI Log: Dropzone Type QZone
+122 UI Log: Update Info Zone: 
+123 Action log: Update Battle Points in Players Dropzone
+124 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+125 Action log: Update Battle Points in Players Dropzone
+126 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+127 Action log: Update Battle Points in Players Dropzone
+128 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+129 Action log: Update Battle Points in Players Dropzone
+130 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type QZone
+131 UI Log: Update Info Zone: 
+132 Action log: Update Battle Points in Players Dropzone
+133 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+134 Action log: Update Battle Points in Players Dropzone
+135 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+136 Action log: Update Battle Points in Players Dropzone
+137 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+138 Action log: Update Battle Points in Players Dropzone
+139 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+140 Action log: Update Battle Points in Players Dropzone
+141 Action log: Update Battle Points in Players Dropzone
+Action Log: Turn Changes
+142 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+143 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+144 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+145 Action log: Draw Card Lance of Light
+146 Action log: Draw Card Lance of Light
+147 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+148 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardMy Lady
+Action Log: Turn Changes
+149 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardMy Lady
+Action Log: Turn Changes
+150 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardMy Lady
+151 Action log: Update Battle Points in Players Dropzone
+152 Action log: Draw Card Lance of Light
+153 Action log: Update Battle Points in Players Dropzone
+154 Action log: Draw Card Lance of Light
+155 Action log: Update Battle Points in Players Dropzone
+156 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+157 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardCorsair Dagger
+AI Log: Player 2 Plays CardLion Horse
+AI Log: Player 2 Plays CardExcaliber
+AI Log: Player 2 Plays CardLance of Light
+Action Log: Turn Changes
+158 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardExcaliber
+AI Log: Player 3 Plays CardDemon Blade
+AI Log: Player 3 Plays CardLion Horse
+AI Log: Player 3 Plays CardViking Batle Axe
+AI Log: Player 3 Plays CardLance of Light
+Action Log: Turn Changes
+159 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardLance of Light
+AI Log: Player 4 Plays CardCorsair Dagger
+160 Action log: Update Battle Points in Players Dropzone
+161 Action log: Update Battle Points in Players Dropzone
+162 Action log: Update Battle Points in Players Dropzone
+163 UI Log: Update Info Zone: 
+164 Action log: Update Battle Points in Players Dropzone
+165 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+166 Action log: Update Battle Points in Players Dropzone
+167 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+168 Action log: Update Battle Points in Players Dropzone
+169 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+170 Action log: Update Battle Points in Players Dropzone
+171 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Sponsor Gets a Reward of 5
+172 Action log: Draw Card Lance of Light
+173 Action log: Draw Card Lance of Light
+174 Action log: Draw Card Lance of Light
+175 Action log: Draw Card Lance of Light
+176 Action log: Draw Card Lance of Light
+177 UI Log: Update Info Zone: 
+178 Action log: Update Battle Points in Players Dropzone
+179 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+180 Action log: Update Battle Points in Players Dropzone
+181 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+182 Action log: Update Battle Points in Players Dropzone
+183 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+184 Action log: Update Battle Points in Players Dropzone
+185 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+186 Action Log: Return Control Q-Controller
+187 UI Log: Update Info Zone: 
+188 Action log: Update Battle Points in Players Dropzone
+189 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+190 Action log: Update Battle Points in Players Dropzone
+191 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+192 Action log: Update Battle Points in Players Dropzone
+193 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+194 Action log: Update Battle Points in Players Dropzone
+195 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+196 Action Log: Disable Board Objects
+197 UI Log: Activate Player 2 Glow
+198 Action Log: Check For Winner
+199 AI Log: AI Player Draws Story Card
+200 Action Log: Player 2 turn end.
+201 Action Log: Story Card Plague has Been Drawn
+202 Action Log: Discard Story CardPlague
+203 UI Log: Update Info Zone: 
+204 Action log: Update Battle Points in Players Dropzone
+205 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+206 Action log: Update Battle Points in Players Dropzone
+207 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+208 Action log: Update Battle Points in Players Dropzone
+209 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+210 Action log: Update Battle Points in Players Dropzone
+211 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+212 Action Log: Disable Board Objects
+213 Action Log: Type of story card just drawn Event
+215 Action Log: Running Event
+216 Action Log: Execute Event CardPlague
+217 Action Log: Plague Event Trigered
+218 UI Log: Update Info Zone: 
+219 Action log: Update Battle Points in Players Dropzone
+220 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+221 Action log: Update Battle Points in Players Dropzone
+222 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+223 Action log: Update Battle Points in Players Dropzone
+224 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+225 Action log: Update Battle Points in Players Dropzone
+226 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+227 Action Log: Turn Changes
+228 Action Log: Check For Winner
+229 Action Log: Disable Board Objects
+230 UI Log: Activate Player 3 Glow
+231 AI Log: AI Player Draws Story Card
+232 Action Log: Player 3 turn end.
+233 Action Log: Story Card Chivalrous Deed has Been Drawn
+234 Action Log: Discard Story CardChivalrous Deed
+235 UI Log: Update Info Zone: 
+236 Action log: Update Battle Points in Players Dropzone
+237 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+238 Action log: Update Battle Points in Players Dropzone
+239 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+240 Action log: Update Battle Points in Players Dropzone
+241 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+242 Action log: Update Battle Points in Players Dropzone
+243 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+244 Action Log: Disable Board Objects
+245 Action Log: Type of story card just drawn Event
+247 Action Log: Running Event
+248 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 1 Gets Sheilds3
+Action Log: Player 2 Gets Sheilds3
+Action Log: Player 3 Gets Sheilds3
+Action Log: Player 4 Gets Sheilds3
+249 UI Log: Update Info Zone: 
+250 Action log: Update Battle Points in Players Dropzone
+251 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+252 Action log: Update Battle Points in Players Dropzone
+253 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+254 Action log: Update Battle Points in Players Dropzone
+255 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+256 Action log: Update Battle Points in Players Dropzone
+257 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+258 Action Log: Turn Changes
+259 Action Log: Check For Winner
+260 Action Log: Disable Board Objects
+261 UI Log: Activate Player 4 Glow
+262 AI Log: AI Player Draws Story Card
+263 Action Log: Player 4 turn end.
+264 Action Log: Story Card King's Recognition has Been Drawn
+265 Action Log: Discard Story CardKing's Recognition
+266 UI Log: Update Info Zone: 
+267 Action log: Update Battle Points in Players Dropzone
+268 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+269 Action log: Update Battle Points in Players Dropzone
+270 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+271 Action log: Update Battle Points in Players Dropzone
+272 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+273 Action log: Update Battle Points in Players Dropzone
+274 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+275 Action Log: Disable Board Objects
+276 Action Log: Type of story card just drawn Event
+278 Action Log: Running Event
+279 Action Log: Execute Event CardKing's Recognition
+280 Action Log: King's Recognition Event Activated
+281 UI Log: Update Info Zone: 
+282 Action log: Update Battle Points in Players Dropzone
+283 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+284 Action log: Update Battle Points in Players Dropzone
+285 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+286 Action log: Update Battle Points in Players Dropzone
+287 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+288 Action log: Update Battle Points in Players Dropzone
+289 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+290 Action Log: Turn Changes
+291 Action Log: Check For Winner
+292 Action Log: Disable Board Objects
+293 UI Log: Activate Player 1 Glow
+294 Action Log: Disable Board Objects
+295 Action Log: Disable Board Objects
+296 Action Log: Disable Board Objects
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Aggro Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Defensive Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Aggro Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Boar Hunt has Been Drawn
+90 Action Log: Discard Story CardBoar Hunt
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Quest
+103 Action Log: Running Quest
+Action Log: 4 player entering quest
+UI Log: Disable All Dropzones
+104 UI Log: Update Info Zone: 
+105 Action log: Update Battle Points in Players Dropzone
+106 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+107 Action log: Update Battle Points in Players Dropzone
+108 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+109 Action log: Update Battle Points in Players Dropzone
+110 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+111 Action log: Update Battle Points in Players Dropzone
+112 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Disable Board Objects For All Except Current Player
+UI log: Sponsor Button Presed
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Goblin Thieves Is Selected
+UI Log: Dropzone Type QZone
+113 UI Log: Update Info Zone: 
+114 Action log: Update Battle Points in Players Dropzone
+115 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+116 Action log: Update Battle Points in Players Dropzone
+117 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+118 Action log: Update Battle Points in Players Dropzone
+119 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+120 Action log: Update Battle Points in Players Dropzone
+121 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Frost Giant Is Selected
+UI Log: Dropzone Type QZone
+122 UI Log: Update Info Zone: 
+123 Action log: Update Battle Points in Players Dropzone
+124 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+125 Action log: Update Battle Points in Players Dropzone
+126 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+127 Action log: Update Battle Points in Players Dropzone
+128 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+129 Action log: Update Battle Points in Players Dropzone
+130 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type QZone
+131 UI Log: Update Info Zone: 
+132 Action log: Update Battle Points in Players Dropzone
+133 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+134 Action log: Update Battle Points in Players Dropzone
+135 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+136 Action log: Update Battle Points in Players Dropzone
+137 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+138 Action log: Update Battle Points in Players Dropzone
+139 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+140 Action log: Update Battle Points in Players Dropzone
+141 Action log: Update Battle Points in Players Dropzone
+Action Log: Turn Changes
+142 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+143 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+144 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+145 Action log: Draw Card Lance of Light
+146 Action log: Draw Card Lance of Light
+147 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+148 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardMy Lady
+Action Log: Turn Changes
+149 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardMy Lady
+AI Log: Player 3 Plays CardLady Iseult
+Action Log: Turn Changes
+150 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardMy Lady
+151 Action log: Update Battle Points in Players Dropzone
+152 Action log: Draw Card Lance of Light
+153 Action log: Update Battle Points in Players Dropzone
+154 Action log: Draw Card Lance of Light
+155 Action log: Update Battle Points in Players Dropzone
+156 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+157 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardCorsair Dagger
+AI Log: Player 2 Plays CardLion Horse
+AI Log: Player 2 Plays CardExcaliber
+AI Log: Player 2 Plays CardLance of Light
+Action Log: Turn Changes
+158 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardDemon Blade
+AI Log: Player 3 Plays CardExcaliber
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+AI Log: Player 3 Plays CardRobber Knight
+Action Log: Turn Changes
+159 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardLance of Light
+AI Log: Player 4 Plays CardCorsair Dagger
+160 Action log: Update Battle Points in Players Dropzone
+161 Action log: Update Battle Points in Players Dropzone
+162 Action log: Update Battle Points in Players Dropzone
+163 UI Log: Update Info Zone: 
+164 Action log: Update Battle Points in Players Dropzone
+165 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+166 Action log: Update Battle Points in Players Dropzone
+167 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+168 Action log: Update Battle Points in Players Dropzone
+169 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+170 Action log: Update Battle Points in Players Dropzone
+171 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Sponsor Gets a Reward of 5
+172 Action log: Draw Card Lance of Light
+173 Action log: Draw Card Lance of Light
+174 Action log: Draw Card Lance of Light
+175 Action log: Draw Card Lance of Light
+176 Action log: Draw Card Lance of Light
+177 UI Log: Update Info Zone: 
+178 Action log: Update Battle Points in Players Dropzone
+179 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+180 Action log: Update Battle Points in Players Dropzone
+181 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+182 Action log: Update Battle Points in Players Dropzone
+183 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+184 Action log: Update Battle Points in Players Dropzone
+185 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+186 Action Log: Return Control Q-Controller
+187 UI Log: Update Info Zone: 
+188 Action log: Update Battle Points in Players Dropzone
+189 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+190 Action log: Update Battle Points in Players Dropzone
+191 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+192 Action log: Update Battle Points in Players Dropzone
+193 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+194 Action log: Update Battle Points in Players Dropzone
+195 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+196 Action Log: Disable Board Objects
+197 UI Log: Activate Player 2 Glow
+198 Action Log: Check For Winner
+199 AI Log: AI Player Draws Story Card
+200 Action Log: Player 2 turn end.
+201 Action Log: Story Card Plague has Been Drawn
+202 Action Log: Discard Story CardPlague
+203 UI Log: Update Info Zone: 
+204 Action log: Update Battle Points in Players Dropzone
+205 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+206 Action log: Update Battle Points in Players Dropzone
+207 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+208 Action log: Update Battle Points in Players Dropzone
+209 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+210 Action log: Update Battle Points in Players Dropzone
+211 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+212 Action Log: Disable Board Objects
+213 Action Log: Type of story card just drawn Event
+215 Action Log: Running Event
+216 Action Log: Execute Event CardPlague
+217 Action Log: Plague Event Trigered
+218 UI Log: Update Info Zone: 
+219 Action log: Update Battle Points in Players Dropzone
+220 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+221 Action log: Update Battle Points in Players Dropzone
+222 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+223 Action log: Update Battle Points in Players Dropzone
+224 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+225 Action log: Update Battle Points in Players Dropzone
+226 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+227 Action Log: Turn Changes
+228 Action Log: Check For Winner
+229 Action Log: Disable Board Objects
+230 UI Log: Activate Player 3 Glow
+231 AI Log: AI Player Draws Story Card
+232 Action Log: Player 3 turn end.
+233 Action Log: Story Card Chivalrous Deed has Been Drawn
+234 Action Log: Discard Story CardChivalrous Deed
+235 UI Log: Update Info Zone: 
+236 Action log: Update Battle Points in Players Dropzone
+237 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+238 Action log: Update Battle Points in Players Dropzone
+239 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+240 Action log: Update Battle Points in Players Dropzone
+241 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+242 Action log: Update Battle Points in Players Dropzone
+243 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+244 Action Log: Disable Board Objects
+245 Action Log: Type of story card just drawn Event
+247 Action Log: Running Event
+248 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 1 Gets Sheilds3
+Action Log: Player 2 Gets Sheilds3
+Action Log: Player 3 Gets Sheilds3
+Action Log: Player 4 Gets Sheilds3
+249 UI Log: Update Info Zone: 
+250 Action log: Update Battle Points in Players Dropzone
+251 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+252 Action log: Update Battle Points in Players Dropzone
+253 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+254 Action log: Update Battle Points in Players Dropzone
+255 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+256 Action log: Update Battle Points in Players Dropzone
+257 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+258 Action Log: Turn Changes
+259 Action Log: Check For Winner
+260 Action Log: Disable Board Objects
+261 UI Log: Activate Player 4 Glow
+262 AI Log: AI Player Draws Story Card
+263 Action Log: Player 4 turn end.
+264 Action Log: Story Card King's Recognition has Been Drawn
+265 Action Log: Discard Story CardKing's Recognition
+266 UI Log: Update Info Zone: 
+267 Action log: Update Battle Points in Players Dropzone
+268 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+269 Action log: Update Battle Points in Players Dropzone
+270 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+271 Action log: Update Battle Points in Players Dropzone
+272 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+273 Action log: Update Battle Points in Players Dropzone
+274 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+275 Action Log: Disable Board Objects
+276 Action Log: Type of story card just drawn Event
+278 Action Log: Running Event
+279 Action Log: Execute Event CardKing's Recognition
+280 Action Log: King's Recognition Event Activated
+281 UI Log: Update Info Zone: 
+282 Action log: Update Battle Points in Players Dropzone
+283 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+284 Action log: Update Battle Points in Players Dropzone
+285 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+286 Action log: Update Battle Points in Players Dropzone
+287 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+288 Action log: Update Battle Points in Players Dropzone
+289 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+290 Action Log: Turn Changes
+291 Action Log: Check For Winner
+292 Action Log: Disable Board Objects
+293 UI Log: Activate Player 1 Glow
+294 Action Log: Disable Board Objects
+295 Action Log: Disable Board Objects
+296 Action Log: Disable Board Objects
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Aggro Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Aggro Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Defensive Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Boar Hunt has Been Drawn
+90 Action Log: Discard Story CardBoar Hunt
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Quest
+103 Action Log: Running Quest
+Action Log: 4 player entering quest
+UI Log: Disable All Dropzones
+104 UI Log: Update Info Zone: 
+105 Action log: Update Battle Points in Players Dropzone
+106 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+107 Action log: Update Battle Points in Players Dropzone
+108 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+109 Action log: Update Battle Points in Players Dropzone
+110 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+111 Action log: Update Battle Points in Players Dropzone
+112 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Disable Board Objects For All Except Current Player
+UI log: Sponsor Button Presed
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Goblin Thieves Is Selected
+UI Log: Dropzone Type QZone
+113 UI Log: Update Info Zone: 
+114 Action log: Update Battle Points in Players Dropzone
+115 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+116 Action log: Update Battle Points in Players Dropzone
+117 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+118 Action log: Update Battle Points in Players Dropzone
+119 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+120 Action log: Update Battle Points in Players Dropzone
+121 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Frost Giant Is Selected
+UI Log: Dropzone Type QZone
+122 UI Log: Update Info Zone: 
+123 Action log: Update Battle Points in Players Dropzone
+124 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+125 Action log: Update Battle Points in Players Dropzone
+126 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+127 Action log: Update Battle Points in Players Dropzone
+128 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+129 Action log: Update Battle Points in Players Dropzone
+130 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type QZone
+131 UI Log: Update Info Zone: 
+132 Action log: Update Battle Points in Players Dropzone
+133 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+134 Action log: Update Battle Points in Players Dropzone
+135 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+136 Action log: Update Battle Points in Players Dropzone
+137 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+138 Action log: Update Battle Points in Players Dropzone
+139 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+140 Action log: Update Battle Points in Players Dropzone
+141 Action log: Update Battle Points in Players Dropzone
+Action Log: Turn Changes
+142 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+143 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+144 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+145 Action log: Draw Card Lance of Light
+146 Action log: Draw Card Lance of Light
+147 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+148 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardMy Lady
+Action Log: Turn Changes
+149 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardMy Lady
+Action Log: Turn Changes
+150 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardLady Guinevere
+AI Log: Player 4 Plays CardMy Lady
+151 Action log: Update Battle Points in Players Dropzone
+152 Action log: Draw Card Lance of Light
+153 Action log: Update Battle Points in Players Dropzone
+154 Action log: Draw Card Lance of Light
+155 Action log: Update Battle Points in Players Dropzone
+156 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+157 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardCorsair Dagger
+AI Log: Player 2 Plays CardLion Horse
+AI Log: Player 2 Plays CardExcaliber
+AI Log: Player 2 Plays CardLance of Light
+Action Log: Turn Changes
+158 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardExcaliber
+AI Log: Player 3 Plays CardDemon Blade
+AI Log: Player 3 Plays CardLion Horse
+AI Log: Player 3 Plays CardViking Batle Axe
+AI Log: Player 3 Plays CardLance of Light
+Action Log: Turn Changes
+159 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardKing Pellinore
+AI Log: Player 4 Plays CardSir Galahad
+160 Action log: Update Battle Points in Players Dropzone
+161 Action log: Update Battle Points in Players Dropzone
+162 Action log: Update Battle Points in Players Dropzone
+163 UI Log: Update Info Zone: 
+164 Action log: Update Battle Points in Players Dropzone
+165 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+166 Action log: Update Battle Points in Players Dropzone
+167 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+168 Action log: Update Battle Points in Players Dropzone
+169 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+170 Action log: Update Battle Points in Players Dropzone
+171 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Sponsor Gets a Reward of 5
+172 Action log: Draw Card Lance of Light
+173 Action log: Draw Card Lance of Light
+174 Action log: Draw Card Lance of Light
+175 Action log: Draw Card Lance of Light
+176 Action log: Draw Card Lance of Light
+177 UI Log: Update Info Zone: 
+178 Action log: Update Battle Points in Players Dropzone
+179 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+180 Action log: Update Battle Points in Players Dropzone
+181 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+182 Action log: Update Battle Points in Players Dropzone
+183 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+184 Action log: Update Battle Points in Players Dropzone
+185 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+186 Action Log: Return Control Q-Controller
+187 UI Log: Update Info Zone: 
+188 Action log: Update Battle Points in Players Dropzone
+189 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+190 Action log: Update Battle Points in Players Dropzone
+191 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+192 Action log: Update Battle Points in Players Dropzone
+193 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+194 Action log: Update Battle Points in Players Dropzone
+195 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+196 Action Log: Disable Board Objects
+197 UI Log: Activate Player 2 Glow
+198 Action Log: Check For Winner
+199 AI Log: AI Player Draws Story Card
+200 Action Log: Player 2 turn end.
+201 Action Log: Story Card Plague has Been Drawn
+202 Action Log: Discard Story CardPlague
+203 UI Log: Update Info Zone: 
+204 Action log: Update Battle Points in Players Dropzone
+205 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+206 Action log: Update Battle Points in Players Dropzone
+207 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+208 Action log: Update Battle Points in Players Dropzone
+209 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+210 Action log: Update Battle Points in Players Dropzone
+211 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+212 Action Log: Disable Board Objects
+213 Action Log: Type of story card just drawn Event
+215 Action Log: Running Event
+216 Action Log: Execute Event CardPlague
+217 Action Log: Plague Event Trigered
+218 UI Log: Update Info Zone: 
+219 Action log: Update Battle Points in Players Dropzone
+220 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+221 Action log: Update Battle Points in Players Dropzone
+222 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+223 Action log: Update Battle Points in Players Dropzone
+224 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+225 Action log: Update Battle Points in Players Dropzone
+226 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+227 Action Log: Turn Changes
+228 Action Log: Check For Winner
+229 Action Log: Disable Board Objects
+230 UI Log: Activate Player 3 Glow
+231 AI Log: AI Player Draws Story Card
+232 Action Log: Player 3 turn end.
+233 Action Log: Story Card Chivalrous Deed has Been Drawn
+234 Action Log: Discard Story CardChivalrous Deed
+235 UI Log: Update Info Zone: 
+236 Action log: Update Battle Points in Players Dropzone
+237 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+238 Action log: Update Battle Points in Players Dropzone
+239 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+240 Action log: Update Battle Points in Players Dropzone
+241 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+242 Action log: Update Battle Points in Players Dropzone
+243 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+244 Action Log: Disable Board Objects
+245 Action Log: Type of story card just drawn Event
+247 Action Log: Running Event
+248 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 1 Gets Sheilds3
+Action Log: Player 2 Gets Sheilds3
+Action Log: Player 3 Gets Sheilds3
+Action Log: Player 4 Gets Sheilds3
+249 UI Log: Update Info Zone: 
+250 Action log: Update Battle Points in Players Dropzone
+251 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+252 Action log: Update Battle Points in Players Dropzone
+253 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+254 Action log: Update Battle Points in Players Dropzone
+255 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+256 Action log: Update Battle Points in Players Dropzone
+257 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+258 Action Log: Turn Changes
+259 Action Log: Check For Winner
+260 Action Log: Disable Board Objects
+261 UI Log: Activate Player 4 Glow
+262 AI Log: AI Player Draws Story Card
+263 Action Log: Player 4 turn end.
+264 Action Log: Story Card King's Recognition has Been Drawn
+265 Action Log: Discard Story CardKing's Recognition
+266 UI Log: Update Info Zone: 
+267 Action log: Update Battle Points in Players Dropzone
+268 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+269 Action log: Update Battle Points in Players Dropzone
+270 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+271 Action log: Update Battle Points in Players Dropzone
+272 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+273 Action log: Update Battle Points in Players Dropzone
+274 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+275 Action Log: Disable Board Objects
+276 Action Log: Type of story card just drawn Event
+278 Action Log: Running Event
+279 Action Log: Execute Event CardKing's Recognition
+280 Action Log: King's Recognition Event Activated
+281 UI Log: Update Info Zone: 
+282 Action log: Update Battle Points in Players Dropzone
+283 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+284 Action log: Update Battle Points in Players Dropzone
+285 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+286 Action log: Update Battle Points in Players Dropzone
+287 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+288 Action log: Update Battle Points in Players Dropzone
+289 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+290 Action Log: Turn Changes
+291 Action Log: Check For Winner
+292 Action Log: Disable Board Objects
+293 UI Log: Activate Player 1 Glow
+294 Action Log: Disable Board Objects
+295 Action Log: Disable Board Objects
+296 Action Log: Disable Board Objects
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+297 Action Log: Player 1 turn end.
+298 Action Log: Story Card Queen's Favour has Been Drawn
+299 Action Log: Discard Story CardQueen's Favour
+300 UI Log: Update Info Zone: 
+301 Action log: Update Battle Points in Players Dropzone
+302 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+303 Action log: Update Battle Points in Players Dropzone
+304 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+305 Action log: Update Battle Points in Players Dropzone
+306 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+307 Action log: Update Battle Points in Players Dropzone
+308 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+309 Action Log: Disable Board Objects
+310 Action Log: Type of story card just drawn Event
+312 Action Log: Running Event
+313 Action Log: Execute Event CardQueen's Favour
+314 Action Log: Queens Favor Event Trigered
+315 Action log: Draw Card Lance of Light
+316 Action log: Draw Card Lance of Light
+317 Action log: Draw Card Lance of Light
+318 Action log: Draw Card Lance of Light
+319 Action log: Draw Card Lance of Light
+320 Action log: Draw Card Lance of Light
+321 Action log: Draw Card Lance of Light
+322 Action log: Draw Card Lance of Light
+323 UI Log: Update Info Zone: 
+324 Action log: Update Battle Points in Players Dropzone
+325 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+326 Action log: Update Battle Points in Players Dropzone
+327 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+328 Action log: Update Battle Points in Players Dropzone
+329 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+330 Action log: Update Battle Points in Players Dropzone
+331 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+332 Action Log: Turn Changes
+333 Action Log: Check For Winner
+334 Action Log: Disable Board Objects
+335 UI Log: Activate Player 2 Glow
+336 AI Log: AI Player Draws Story Card
+337 Action Log: Player 2 turn end.
+338 Action Log: Story Card King's Recognition has Been Drawn
+339 Action Log: Discard Story CardKing's Recognition
+340 UI Log: Update Info Zone: 
+341 Action log: Update Battle Points in Players Dropzone
+342 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+343 Action log: Update Battle Points in Players Dropzone
+344 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+345 Action log: Update Battle Points in Players Dropzone
+346 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+347 Action log: Update Battle Points in Players Dropzone
+348 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+349 Action Log: Disable Board Objects
+350 Action Log: Type of story card just drawn Event
+352 Action Log: Running Event
+353 Action Log: Execute Event CardKing's Recognition
+354 Action Log: King's Recognition Event Activated
+355 UI Log: Update Info Zone: 
+356 Action log: Update Battle Points in Players Dropzone
+357 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+358 Action log: Update Battle Points in Players Dropzone
+359 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+360 Action log: Update Battle Points in Players Dropzone
+361 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+362 Action log: Update Battle Points in Players Dropzone
+363 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+364 Action Log: Turn Changes
+365 Action Log: Check For Winner
+366 Action Log: Disable Board Objects
+367 UI Log: Activate Player 3 Glow
+368 AI Log: AI Player Draws Story Card
+369 Action Log: Player 3 turn end.
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 1 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+58 AI Log: Create Random AI Player Type
+59 AI Log: AI Type Defensive Created
+AI Log: AI Player 2 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 AI Log: Create Random AI Player Type
+64 AI Log: AI Type Aggro Created
+AI Log: AI Player 3 Becomes Squire
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 AI Log: Create Random AI Player Type
+69 AI Log: AI Type Aggro Created
+AI Log: AI Player 4 Becomes Squire
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 UI Log: AI Set Player Image
+73 Action Log: Game Start 
+74 Action Log: Create 4Human Players
+75 UI Log: Enable Block Screen
+76 UI Log: Update Info Zone: 
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+79 Action log: Update Battle Points in Players Dropzone
+80 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+81 Action log: Update Battle Points in Players Dropzone
+82 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+83 Action log: Update Battle Points in Players Dropzone
+84 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+85 Action Log: Player 1 turn start.
+86 Action Log: Disable Board Objects
+87 UI Log: Activate Player 1 Glow
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+88 Action Log: Player 1 turn end.
+89 Action Log: Story Card Boar Hunt has Been Drawn
+90 Action Log: Discard Story CardBoar Hunt
+91 UI Log: Update Info Zone: 
+92 Action log: Update Battle Points in Players Dropzone
+93 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+94 Action log: Update Battle Points in Players Dropzone
+95 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+96 Action log: Update Battle Points in Players Dropzone
+97 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+98 Action log: Update Battle Points in Players Dropzone
+99 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+100 Action Log: Disable Board Objects
+101 Action Log: Type of story card just drawn Quest
+103 Action Log: Running Quest
+Action Log: 4 player entering quest
+UI Log: Disable All Dropzones
+104 UI Log: Update Info Zone: 
+105 Action log: Update Battle Points in Players Dropzone
+106 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+107 Action log: Update Battle Points in Players Dropzone
+108 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+109 Action log: Update Battle Points in Players Dropzone
+110 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+111 Action log: Update Battle Points in Players Dropzone
+112 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Disable Board Objects For All Except Current Player
+UI log: Sponsor Button Presed
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Saxon Is Selected
+UI Log: Dropzone Type QZone
+113 UI Log: Update Info Zone: 
+114 Action log: Update Battle Points in Players Dropzone
+115 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+116 Action log: Update Battle Points in Players Dropzone
+117 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+118 Action log: Update Battle Points in Players Dropzone
+119 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+120 Action log: Update Battle Points in Players Dropzone
+121 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Frost Giant Is Selected
+UI Log: Dropzone Type QZone
+122 UI Log: Update Info Zone: 
+123 Action log: Update Battle Points in Players Dropzone
+124 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+125 Action log: Update Battle Points in Players Dropzone
+126 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+127 Action log: Update Battle Points in Players Dropzone
+128 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+129 Action log: Update Battle Points in Players Dropzone
+130 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Demon Blade Is Selected
+UI Log: Dropzone Type QZone
+131 UI Log: Update Info Zone: 
+132 Action log: Update Battle Points in Players Dropzone
+133 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+134 Action log: Update Battle Points in Players Dropzone
+135 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+136 Action log: Update Battle Points in Players Dropzone
+137 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+138 Action log: Update Battle Points in Players Dropzone
+139 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Grab Dragable Object
+UI Log: Dragable Object Selected
+UI Log: Dragable Object Not Null
+UI Log: Valid Dropzone
+UI Log: Card Lance of Light Is Selected
+UI Log: Dropzone Type QZone
+140 UI Log: Update Info Zone: 
+141 Action log: Update Battle Points in Players Dropzone
+142 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+143 Action log: Update Battle Points in Players Dropzone
+144 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+145 Action log: Update Battle Points in Players Dropzone
+146 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+147 Action log: Update Battle Points in Players Dropzone
+148 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+UI Log: Card Droped
+UI log: Release Dragable Object
+UI log: Pass Turn Button Presed
+Networking log: Game State Posted
+149 Action log: Update Battle Points in Players Dropzone
+150 Action log: Update Battle Points in Players Dropzone
+Action Log: Turn Changes
+151 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+152 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+Action Log: Turn Changes
+153 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+154 Action log: Draw Card Lance of Light
+155 Action log: Draw Card Lance of Light
+156 Action log: Draw Card Lance of Light
+Action Log: Turn Changes
+157 UI Log: Activate Player 2 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 2 Plays CardLady Iseult
+AI Log: Player 2 Plays CardMy Lady
+Action Log: Turn Changes
+158 UI Log: Activate Player 3 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 3 Plays CardMy Lady
+Action Log: Turn Changes
+159 UI Log: Activate Player 4 Glow
+Action Log: Disable Board Objects For All Except Current Player
+AI Log: Player 4 Plays CardMy Lady
+160 Action log: Update Battle Points in Players Dropzone
+161 Action log: Update Battle Points in Players Dropzone
+162 Action log: Update Battle Points in Players Dropzone
+163 UI Log: Update Info Zone: 
+164 Action log: Update Battle Points in Players Dropzone
+165 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+166 Action log: Update Battle Points in Players Dropzone
+167 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+168 Action log: Update Battle Points in Players Dropzone
+169 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+170 Action log: Update Battle Points in Players Dropzone
+171 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+Action Log: Sponsor Gets a Reward of 6
+172 Action log: Draw Card Lance of Light
+173 Action log: Draw Card Lance of Light
+174 Action log: Draw Card Lance of Light
+175 Action log: Draw Card Lance of Light
+176 Action log: Draw Card Lance of Light
+177 Action log: Draw Card Lance of Light
+178 UI Log: Update Info Zone: 
+179 Action log: Update Battle Points in Players Dropzone
+180 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+181 Action log: Update Battle Points in Players Dropzone
+182 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+183 Action log: Update Battle Points in Players Dropzone
+184 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+185 Action log: Update Battle Points in Players Dropzone
+186 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+187 Action Log: Return Control Q-Controller
+188 UI Log: Update Info Zone: 
+189 Action log: Update Battle Points in Players Dropzone
+190 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+191 Action log: Update Battle Points in Players Dropzone
+192 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+193 Action log: Update Battle Points in Players Dropzone
+194 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+195 Action log: Update Battle Points in Players Dropzone
+196 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+197 Action Log: Disable Board Objects
+198 UI Log: Activate Player 2 Glow
+199 Action Log: Check For Winner
+200 AI Log: AI Player Draws Story Card
+201 Action Log: Player 2 turn end.
+202 Action Log: Story Card Plague has Been Drawn
+203 Action Log: Discard Story CardPlague
+204 UI Log: Update Info Zone: 
+205 Action log: Update Battle Points in Players Dropzone
+206 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+207 Action log: Update Battle Points in Players Dropzone
+208 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+209 Action log: Update Battle Points in Players Dropzone
+210 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+211 Action log: Update Battle Points in Players Dropzone
+212 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+213 Action Log: Disable Board Objects
+214 Action Log: Type of story card just drawn Event
+216 Action Log: Running Event
+217 Action Log: Execute Event CardPlague
+218 Action Log: Plague Event Trigered
+219 UI Log: Update Info Zone: 
+220 Action log: Update Battle Points in Players Dropzone
+221 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+222 Action log: Update Battle Points in Players Dropzone
+223 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+224 Action log: Update Battle Points in Players Dropzone
+225 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+226 Action log: Update Battle Points in Players Dropzone
+227 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+228 Action Log: Turn Changes
+229 Action Log: Check For Winner
+230 Action Log: Disable Board Objects
+231 UI Log: Activate Player 3 Glow
+232 AI Log: AI Player Draws Story Card
+233 Action Log: Player 3 turn end.
+234 Action Log: Story Card Chivalrous Deed has Been Drawn
+235 Action Log: Discard Story CardChivalrous Deed
+236 UI Log: Update Info Zone: 
+237 Action log: Update Battle Points in Players Dropzone
+238 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+239 Action log: Update Battle Points in Players Dropzone
+240 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+241 Action log: Update Battle Points in Players Dropzone
+242 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+243 Action log: Update Battle Points in Players Dropzone
+244 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+245 Action Log: Disable Board Objects
+246 Action Log: Type of story card just drawn Event
+248 Action Log: Running Event
+249 Action Log: Execute Event CardChivalrous Deed
+Action Log: Player 1 Gets Sheilds3
+Action Log: Player 2 Gets Sheilds3
+Action Log: Player 3 Gets Sheilds3
+Action Log: Player 4 Gets Sheilds3
+250 UI Log: Update Info Zone: 
+251 Action log: Update Battle Points in Players Dropzone
+252 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+253 Action log: Update Battle Points in Players Dropzone
+254 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+255 Action log: Update Battle Points in Players Dropzone
+256 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+257 Action log: Update Battle Points in Players Dropzone
+258 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+259 Action Log: Turn Changes
+260 Action Log: Check For Winner
+261 Action Log: Disable Board Objects
+262 UI Log: Activate Player 4 Glow
+263 AI Log: AI Player Draws Story Card
+264 Action Log: Player 4 turn end.
+265 Action Log: Story Card King's Recognition has Been Drawn
+266 Action Log: Discard Story CardKing's Recognition
+267 UI Log: Update Info Zone: 
+268 Action log: Update Battle Points in Players Dropzone
+269 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+270 Action log: Update Battle Points in Players Dropzone
+271 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+272 Action log: Update Battle Points in Players Dropzone
+273 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+274 Action log: Update Battle Points in Players Dropzone
+275 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+276 Action Log: Disable Board Objects
+277 Action Log: Type of story card just drawn Event
+279 Action Log: Running Event
+280 Action Log: Execute Event CardKing's Recognition
+281 Action Log: King's Recognition Event Activated
+282 UI Log: Update Info Zone: 
+283 Action log: Update Battle Points in Players Dropzone
+284 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+285 Action log: Update Battle Points in Players Dropzone
+286 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+287 Action log: Update Battle Points in Players Dropzone
+288 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+289 Action log: Update Battle Points in Players Dropzone
+290 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+291 Action Log: Turn Changes
+292 Action Log: Check For Winner
+293 Action Log: Disable Board Objects
+294 UI Log: Activate Player 1 Glow
+295 Action Log: Disable Board Objects
+296 Action Log: Disable Board Objects
+297 Action Log: Disable Board Objects
