@@ -17,13 +17,13 @@ public abstract class Controler : Photon.MonoBehaviour
     public Deck Discard;
     public static string SName;
     public static int LogLine;
-    public bool gameState;
+    public bool gameState, cheating;
 
     public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info) { }
 
     public List<List<int>> UpdateInfo(int AddSheilds)
     {
-        HandleTextFile.WriteLog((LogLine += 1) + " UI Log: Update Player Info Zone: " + "#SNG-2", SName);
+        HandleTextFile.WriteLog((LogLine += 1) + " UI Log: Update Player Info Zone: Cards, BP, Shields, Bids" + "#SNG-2, #BNF-8, #BNF-11, #BNF-14, #BNF-20, #BNF-23, #BNF-27", SName);
         List<List<int>> returnList = new List<List<int>>();
         for (int i = 0; i < 4; i++)
         {

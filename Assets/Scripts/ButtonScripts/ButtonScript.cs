@@ -56,6 +56,10 @@ public class ButtonScript : Photon.MonoBehaviour
         HandleTextFile.WriteLog("UI log: Congrats You Found Our Captain...GOOD MORNING VIETNAM", GameControler.SName);
         TempGameScript.pop.EnableRW();
     }
+    public void ButtonHandlerCheat()
+    {
+        ((QuestController)TempGameScript).Cheat();
+    }
     public void ButtonHandlerDiscard(){TempGameScript.pop.DisableDiscardPopup();}
     public void ButtonHandlerSponsorIneligibleScreen(){TempGameScript.pop.DisableSponsorIneligiblePopup();}
     public void ButtonHandlerTournamentWinnerScreen(){TempGameScript.pop.DisableTournamentWinnerPopup();}

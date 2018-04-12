@@ -11,7 +11,7 @@ public class EventQ : EventCard
         switch (this.name)
         {
             case "Prosperity":
-                HandleTextFile.WriteLog((GameControler.LogLine+=1) + " Action Log: Prosperity Event Trigered", GameControler.SName);
+                HandleTextFile.WriteLog((GameControler.LogLine+=1) + " Action Log: Prosperity Event Trigered, #BNF-29", GameControler.SName);
                 //All players immediately draw two Adventure Cards
                 for (int i = 0; i < 4; i++)
                 {
@@ -98,6 +98,8 @@ public class EventQ : EventCard
                         pl[i].GetComponent<AbstractPlayer>().SetSheilds(3);
                     }
                 }
+                HandleTextFile.WriteLog((Controler.LogLine += 1) + " Action Log: Chivalrous Deed Triggered. #BNF-28", Controler.SName);
+
                 break;
 
             default:

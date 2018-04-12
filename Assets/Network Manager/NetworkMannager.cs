@@ -14,7 +14,7 @@ public class NetworkMannager : MonoBehaviour
     private void Awake()
     {
         LobbyLineNumber = 0;
-        LName = "TestLogs";
+        LName = "Build";
         PhotonNetwork.ConnectUsingSettings(versionNumber);
         PhotonNetwork.automaticallySyncScene = true;
         HandleTextFile.WriteLog((LobbyLineNumber += 1) + " Network Log: Initializing Server: " + "#SNG1", LName);

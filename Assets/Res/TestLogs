@@ -3091,3 +3091,277 @@ Action Log: Player 4 Gets Sheilds0
 295 Action Log: Disable Board Objects
 296 Action Log: Disable Board Objects
 297 Action Log: Disable Board Objects
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: Player Joins Game Room : #SNG1
+4 Network Log: Local Client Launched #SNG-2
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 4 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+Action Log: Player 2 Becomes Squire
+58 UI Log: AI Set Player Image
+59 UI Log: AI Set Player Image
+60 UI Log: AI Set Player Image
+Action Log: Player 3 Becomes Squire
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 UI Log: AI Set Player Image
+Action Log: Player 4 Becomes Squire
+64 UI Log: AI Set Player Image
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 Action Log: Game Start
+68 Action Log: Create 4Human Players
+69 UI Log: Enable Block Screen
+70 UI Log: Update Player Info Zone: #SNG-2
+71 Action log: Update Battle Points in Players Dropzone
+72 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+73 Action log: Update Battle Points in Players Dropzone
+74 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+75 Action log: Update Battle Points in Players Dropzone
+76 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+79 Action Log: Player 1 turn start.
+80 Action Log: Disable Board Objects
+81 UI Log: Activate Player 1 Glow
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: First Player Creates Game Room: #SNG1
+4 Network Log: Player Joins Game Room : #SNG1
+5 Network Log: Networked Player Joins the Game : #SNG1
+6 Network Log: Networked Player Joins the Game : #SNG1
+7 Network Log: Networked Player Joins the Game : #SNG1
+8 Network Log: Game Room Full launching the Game : #SNG1
+9 Network Log: Local Client Launched #SNG-2
+10 Action Log: Player Deal
+11 Action log: Deal Card Giant Boar
+12 Action log: Deal Card Corsair Dagger
+13 Action log: Deal Card Saxon
+14 Action log: Deal Card Saxon
+15 Action log: Deal Card Lion Horse
+16 Action log: Deal Card My Lady
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Demon Blade
+19 Action log: Deal Card Lance of Light
+20 Action log: Deal Card Goblin Thieves
+21 Action log: Deal Card Frost Giant
+22 Action log: Deal Card Lion Horse
+23 Action log: Deal Card Lady Iseult
+24 Action log: Deal Card Evil Knight
+25 Action log: Deal Card Frost Giant
+26 Action log: Deal Card My Lady
+27 Action log: Deal Card My Lady
+28 Action log: Deal Card Saxon
+29 Action log: Deal Card Sir Percival
+30 Action log: Deal Card My Lady
+31 Action log: Deal Card Robber Knight
+32 Action log: Deal Card Corsair Dagger
+33 Action log: Deal Card Lion Horse
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card Robber Knight
+36 Action log: Deal Card Mordred
+37 Action log: Deal Card Dragon
+38 Action log: Deal Card Saxon
+39 Action log: Deal Card Excaliber
+40 Action log: Deal Card My Lady
+41 Action log: Deal Card Frost Giant
+42 Action log: Deal Card Demon Blade
+43 Action log: Deal Card Lion Horse
+44 Action log: Deal Card Viking Batle Axe
+45 Action log: Deal Card Lady Iseult
+46 Action log: Deal Card Evil Knight
+47 Action log: Deal Card Lance of Light
+48 Action log: Deal Card Lady Guinevere
+49 Action log: Deal Card Black Knight
+50 Action log: Deal Card My Lady
+51 Action log: Deal Card My Lady
+52 Action log: Deal Card Corsair Dagger
+53 Action log: Deal Card Lance of Light
+54 Action log: Deal Card Lion Horse
+55 Action log: Deal Card King Pellinore
+56 Action log: Deal Card Sir Galahad
+57 Action log: Deal Card Viking Batle Axe
+58 Action log: Deal Card Lance of Light
+59 Action Log: Create 4 Players
+Action Log: Player 1 Becomes Squire
+60 UI Log: AI Set Player Image
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+Action Log: Player 2 Becomes Squire
+63 UI Log: AI Set Player Image
+64 UI Log: AI Set Player Image
+65 UI Log: AI Set Player Image
+Action Log: Player 3 Becomes Squire
+66 UI Log: AI Set Player Image
+67 UI Log: AI Set Player Image
+68 UI Log: AI Set Player Image
+Action Log: Player 4 Becomes Squire
+69 UI Log: AI Set Player Image
+70 UI Log: AI Set Player Image
+71 UI Log: AI Set Player Image
+72 Action Log: Game Start
+73 Action Log: Create 4Human Players
+74 UI Log: Enable Block Screen
+75 UI Log: Update Player Info Zone: #SNG-2
+76 Action log: Update Battle Points in Players Dropzone
+77 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+78 Action log: Update Battle Points in Players Dropzone
+79 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+80 Action log: Update Battle Points in Players Dropzone
+81 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+82 Action log: Update Battle Points in Players Dropzone
+83 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+84 Action Log: Player 1 turn start.
+85 Action Log: Disable Board Objects
+86 UI Log: Activate Player 1 Glow
+1 Network Log: Initializing Server: #SNG1
+2 Network Log: Player Connects Game : #SNG1
+3 Network Log: Player Joins Game Room : #SNG1
+4 Network Log: Local Client Launched #SNG-2
+5 Action Log: Player Deal
+6 Action log: Deal Card Giant Boar
+7 Action log: Deal Card Corsair Dagger
+8 Action log: Deal Card Saxon
+9 Action log: Deal Card Saxon
+10 Action log: Deal Card Lion Horse
+11 Action log: Deal Card My Lady
+12 Action log: Deal Card Lion Horse
+13 Action log: Deal Card Demon Blade
+14 Action log: Deal Card Lance of Light
+15 Action log: Deal Card Goblin Thieves
+16 Action log: Deal Card Frost Giant
+17 Action log: Deal Card Lion Horse
+18 Action log: Deal Card Lady Iseult
+19 Action log: Deal Card Evil Knight
+20 Action log: Deal Card Frost Giant
+21 Action log: Deal Card My Lady
+22 Action log: Deal Card My Lady
+23 Action log: Deal Card Saxon
+24 Action log: Deal Card Sir Percival
+25 Action log: Deal Card My Lady
+26 Action log: Deal Card Robber Knight
+27 Action log: Deal Card Corsair Dagger
+28 Action log: Deal Card Lion Horse
+29 Action log: Deal Card Excaliber
+30 Action log: Deal Card Robber Knight
+31 Action log: Deal Card Mordred
+32 Action log: Deal Card Dragon
+33 Action log: Deal Card Saxon
+34 Action log: Deal Card Excaliber
+35 Action log: Deal Card My Lady
+36 Action log: Deal Card Frost Giant
+37 Action log: Deal Card Demon Blade
+38 Action log: Deal Card Lion Horse
+39 Action log: Deal Card Viking Batle Axe
+40 Action log: Deal Card Lady Iseult
+41 Action log: Deal Card Evil Knight
+42 Action log: Deal Card Lance of Light
+43 Action log: Deal Card Lady Guinevere
+44 Action log: Deal Card Black Knight
+45 Action log: Deal Card My Lady
+46 Action log: Deal Card My Lady
+47 Action log: Deal Card Corsair Dagger
+48 Action log: Deal Card Lance of Light
+49 Action log: Deal Card Lion Horse
+50 Action log: Deal Card King Pellinore
+51 Action log: Deal Card Sir Galahad
+52 Action log: Deal Card Viking Batle Axe
+53 Action log: Deal Card Lance of Light
+54 Action Log: Create 4 Players
+Action Log: Player 1 Becomes Squire
+55 UI Log: AI Set Player Image
+56 UI Log: AI Set Player Image
+57 UI Log: AI Set Player Image
+Action Log: Player 2 Becomes Squire
+58 UI Log: AI Set Player Image
+59 UI Log: AI Set Player Image
+60 UI Log: AI Set Player Image
+Action Log: Player 3 Becomes Squire
+61 UI Log: AI Set Player Image
+62 UI Log: AI Set Player Image
+63 UI Log: AI Set Player Image
+Action Log: Player 4 Becomes Squire
+64 UI Log: AI Set Player Image
+65 UI Log: AI Set Player Image
+66 UI Log: AI Set Player Image
+67 Action Log: Game Start
+68 Action Log: Create 4Human Players
+69 UI Log: Enable Block Screen
+70 UI Log: Update Player Info Zone: #SNG-2
+71 Action log: Update Battle Points in Players Dropzone
+72 Action log: Update Bids
+Action Log: Player 1 Gets Sheilds0
+73 Action log: Update Battle Points in Players Dropzone
+74 Action log: Update Bids
+Action Log: Player 2 Gets Sheilds0
+75 Action log: Update Battle Points in Players Dropzone
+76 Action log: Update Bids
+Action Log: Player 3 Gets Sheilds0
+77 Action log: Update Battle Points in Players Dropzone
+78 Action log: Update Bids
+Action Log: Player 4 Gets Sheilds0
+79 Action Log: Player 1 turn start.
+80 Action Log: Disable Board Objects
+81 UI Log: Activate Player 1 Glow

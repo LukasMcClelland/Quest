@@ -55,18 +55,22 @@ public class Popup : MonoBehaviour
         this. JoinScreenPopup.gameObject.SetActive(true);
         if(joined==true){
             JoinScreenPopup.join.gameObject.SetActive(true);
-            JoinScreenPopup.status.text = "Player " + (player + 1) + " Has Joined The Tournament"; 
+            JoinScreenPopup.status.text = "Player " + (player + 1) + " Has Joined";
+            HandleTextFile.WriteLog((Controler.LogLine += 1) + " Showing players that Player " + (player+1) + " has joined #BNF-8", Controler.SName);
         }
         else{
             JoinScreenPopup.decline.gameObject.SetActive(true);
-            JoinScreenPopup.status.text = "Player " + (player + 1) + " Has Fled The Tournament"; 
+            JoinScreenPopup.status.text = "Player " + (player + 1) + " Has Fled";
+            HandleTextFile.WriteLog((Controler.LogLine += 1) + " Showing players that Player " + (player + 1) + " has NOT joined #BNF-8", Controler.SName);
         }
+
     }
     public void EnableSponsorBlockScreen(int player, bool joined){
         this.SponsorScreenPopup.gameObject.SetActive(true);
         if(joined==true){
             SponsorScreenPopup.join.gameObject.SetActive(true);
-            SponsorScreenPopup.status.text = "Player " + (player + 1) + " Has Sponsored the Horde"; 
+            SponsorScreenPopup.status.text = "Player " + (player + 1) + " Has Sponsored the Horde";
+            HandleTextFile.WriteLog((Controler.LogLine += 1) + " Informing players that Player " + (player + 1) + " has sponsored teh quest #BNF-3", Controler.SName);
         }
     }
     public void EnableTournamentWinnerPopup(GameObject PlayerThatWon, int NumShields, int PlayerNum){
@@ -87,6 +91,7 @@ public class Popup : MonoBehaviour
     public void EnableQuestStartPopup(Card StoryCard){
         QuestStartPopup.gameObject.SetActive(true);
         QuestStartPopup.card.gameObject.GetComponent<Image>().sprite = StoryCard.GetComponent<Image>().sprite;
+        HandleTextFile.WriteLog((Controler.LogLine += 1) + " Showing Quest Card drawn to ALL clients " + "#BNF-1", Controler.SName);
     }
     public void EnableSponsorIneligiblePopup(){
         this.gameObject.SetActive(true);
@@ -134,6 +139,8 @@ public class Popup : MonoBehaviour
             temp.transform.SetParent(ResolveStagePopup.SponsorZone.transform);
             temp.GetComponent<Image>().sprite = Child.GetComponent<Card>().img;
         }
+        HandleTextFile.WriteLog((Controler.LogLine += 1) + " Show players the cards the sponsor played for the stage #BNF-16", Controler.SName);
+
         for (int i = 0; i <questingPlayers.Count; i++)
         {
             ResolveStagePopup.playerPics[i].GetComponent<Image>().sprite = players[i].GetComponent<Image>().sprite;
@@ -143,10 +150,14 @@ public class Popup : MonoBehaviour
                 temp.transform.SetParent(ResolveStagePopup.PlayerZones[i].transform);
                 temp.GetComponent<Image>().sprite = Child.GetComponent<Card>().img;
             }
+            HandleTextFile.WriteLog((Controler.LogLine += 1) + " Show players the cards that Player "+(i+1)+" played for the stage #BNF-17", Controler.SName);
+
 
             if (questingPlayers[i])
             {
                 ResolveStagePopup.Checks[i].SetActive(true);
+                HandleTextFile.WriteLog((Controler.LogLine += 1) + " Show players that Player " + (i + 1) + " was not eliminated (Checkmark) #BNF-18", Controler.SName);
+
             }
             else
             {
@@ -157,6 +168,8 @@ public class Popup : MonoBehaviour
                 else
                 {
                     ResolveStagePopup.Xs[i].SetActive(true);
+                    HandleTextFile.WriteLog((Controler.LogLine += 1) + " Show players that Player " + (i + 1) + " was eliminated (X) #BNF-18", Controler.SName);
+
                 }
             }       
         }
@@ -185,6 +198,8 @@ public class Popup : MonoBehaviour
                 }
             }
         }
+        this.QuestWinnerPopup.gameObject.SetActive(true);
+        Debug.Log("Trying to show quest winner popup");
     }
 
     public void DisableResolveStagePopup()

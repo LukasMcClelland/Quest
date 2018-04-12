@@ -39,6 +39,7 @@ public class QuestController : Controler
         if(PhotonNetwork.player.ID != turn+1){
             pop.EnableQuestBlockScreen(players[turn], turn);
             pop.EnableWaitScreen();
+            HandleTextFile.WriteLog((Controler.LogLine += 1) + " Enabling wait screen for all players, except Player " + (turn + 1) + " #BNF-2", Controler.SName);
         }
         hands[turn].gameObject.SetActive(true);
         numQuestingPlayers = players.Count;
@@ -46,13 +47,19 @@ public class QuestController : Controler
         ToggleBoard(turn, 0);
         playersWhoDidntSponsor = turnsPassed = 0;
         sponsorPlayer = -1;
+        cheating = false;
         if (players[turn].GetComponent<AiPlayer>() != null){AiBehavior("Start");}
 
     }
     public override void EndTurn(){
         if (hands[turn].cards.Count > 12)
         {
-            if (PhotonNetwork.player.ID == turn + 1) { pop.ActivateDiscard(hands[turn].cards.Count - 12); }
+            if (PhotonNetwork.player.ID == turn + 1)
+            {
+                pop.ActivateDiscard(hands[turn].cards.Count - 12);
+                HandleTextFile.WriteLog((Controler.LogLine += 1) + " Player Attenmpted to EndTurn with too many cards. Show discard prompt to active player only #BNF-22", Controler.SName);
+            }
+
         }
         else
         {
@@ -125,6 +132,8 @@ public class QuestController : Controler
             {
                 questingPlayers[turn] = false;
                 numQuestingPlayers--;
+                pop.EnableJoinBlockScreen(turn, false);
+
             }
             if ((turn + 1) % 4 == sponsorPlayer)
             {
@@ -139,6 +148,7 @@ public class QuestController : Controler
                         if (questingPlayers[i])
                         {
                             hands[i].Draw(ADeck);
+                            HandleTextFile.WriteLog((Controler.LogLine += 1) + " Giving one adventure card to Player " + (turn+1) + " for joining Quest #BNF-7, #BNF-10, #BNF-13", Controler.SName);
                         }
                     }
                     AdvanceTurn();
@@ -153,6 +163,8 @@ public class QuestController : Controler
             {
                 AdvanceTurn();
                 if (players[turn].GetComponent<AiPlayer>() != null){AiBehavior("Join");}
+                HandleTextFile.WriteLog((Controler.LogLine += 1) + " Showing players that Player " + (turn + 1) + " joined the Quest #BNF-8, #BNF-11, #BNF-14", Controler.SName);
+                pop.EnableJoinBlockScreen(turn, true);
             }
         }
     }
@@ -164,6 +176,7 @@ public class QuestController : Controler
         pop.EnableQuestBlockScreen(players[turn],turn);
         pop.EnableWaitScreen();
         Debug.Log("Player"+(turn+1)+"turn being set in AdvanceTurn");
+        HandleTextFile.WriteLog((Controler.LogLine += 1) + " Advancing turn. Enabling wait screen for all players except Player " + (turn+1) + " #BNF-6, #BNF-9, #BNF-12, #BNF-24", Controler.SName);
         //when taking out toggle board, do the flipzone in here with a loop and ifs
     }
     public void DisableAllDropZones(){
@@ -284,6 +297,7 @@ public class QuestController : Controler
             StageNames[i].gameObject.SetActive(true);
             qzones[i].gameObject.SetActive(true);   
         }
+        HandleTextFile.WriteLog((Controler.LogLine += 1) + " Player " + (turn+1) + " has sponsored. Wait screens stay in place for other players #BNF-4", Controler.SName);
     }
 
     //checks sponsor's quest setup, returns true if valid
@@ -310,6 +324,7 @@ public class QuestController : Controler
             }
         }
         pop.EnableSponsorBlockScreen(turn,true);
+        HandleTextFile.WriteLog((Controler.LogLine += 1) + " Sponsor has played cards in zones. Quest Valid. Quest Start " + "#BNF-5", Controler.SName);
         return true;
     }
 
@@ -350,14 +365,17 @@ public class QuestController : Controler
         {
             if (questingPlayers[i])
             {
-                //Not sure if this should be less than or less than or equals to
-                if (players[i].GetComponent<AbstractPlayer>().BP < qzones[stageNumber].UpdateBP(questCard.specialFoeId))
+                if (players[i].GetComponent<AbstractPlayer>().BP + dzones[i].UpdateBP(null) < qzones[stageNumber].UpdateBP(questCard.specialFoeId))
                 {
                     questingPlayers[i] = false;
+                    HandleTextFile.WriteLog((Controler.LogLine += 1) + "Player " + (i + 1) + " was eliminated (set to false) #BNF-21", Controler.SName);
+
                 }
                 else
                 {
                     hands[i].Draw(ADeck);
+                    HandleTextFile.WriteLog((Controler.LogLine += 1) + " Player " + (i + 1) + " was not eliminated (stays true) and gets dealt a card #BNF-21", Controler.SName);
+
                     remainingPlayerTurnsInAStage++;
                 }
             }
@@ -410,7 +428,10 @@ public class QuestController : Controler
                 Discard.cards.Add(EC);
             }
             dzones[i].Equipment.Clear();
+            HandleTextFile.WriteLog((Controler.LogLine += 1) + " Clearing cards from Dropzone of player" + (i + 1) + " #BNF-19", Controler.SName);
+
         }
+
     }
 
     //clears the quest zone after a quest is over so it's ready to use for another quest
@@ -442,6 +463,8 @@ public class QuestController : Controler
         {
             if (questingPlayers[i] == true) {
                 players[i].GetComponent<AbstractPlayer>().SetSheilds(questCard.numberOfStages);
+                HandleTextFile.WriteLog((Controler.LogLine += 1) + " Awarding Shields to Player" + (i + 1) + " for winning quest. #BNF-25", Controler.SName);
+
                 if (GameController.KingsRec == true)
                 {
                     players[i].GetComponent<AbstractPlayer>().SetSheilds(2);
@@ -457,7 +480,8 @@ public class QuestController : Controler
     {
         int cardCount = questCard.numberOfStages;
         foreach (Dropzone q in qzones) { cardCount += (q.ControledFoes.Count + q.Equipment.Count); }
-        HandleTextFile.WriteLog("Action Log: Sponsor Gets a Reward of " + cardCount, GameControler.SName);
+        HandleTextFile.WriteLog((Controler.LogLine += 1) + " Sponsor gets rewarded with " + (cardCount) + " cards. #BNF-19", Controler.SName);
+
         for (int i = 0; i < cardCount; ++i)
         {
             hands[sponsorPlayer].Draw(ADeck);
@@ -485,11 +509,11 @@ public class QuestController : Controler
             RewardPlayers();
             RewardSponsor();
         }
+        pop.EnableQuestWinnerPopup(questingPlayers, questCard.numberOfStages, sponsorPlayer, players);
         questingPlayers.Clear();
         ClearQzones();
         ClearDropZones(1);
         gameState = false;
-        //pop.EnableQuestWinnerPopup(questingPlayers, questCard.numberOfStages, sponsorPlayer, players);
         GameController.ReturnControlFromQuest(false, turnToSetToAfterQuest);
     }
 
@@ -519,6 +543,32 @@ public class QuestController : Controler
 
             default:
                     break;
+        }
+    }
+
+    public void Cheat()
+    {
+        //enable the cheat
+        if (cheating == false)
+        {
+            for (int i = 0; i < players.Count; i++)
+            {
+                FlipDropzone(dzones[i], false);
+
+            }
+            FlipDropzone(qzones[stageNumber], false);
+            cheating = true;
+        }
+        else
+        {
+            for (int i = 0; i < players.Count; i++)
+            {
+                if (turn != i)
+                    FlipDropzone(dzones[i], true);
+
+            }
+            FlipDropzone(qzones[stageNumber], true);
+            cheating = false;
         }
     }
 

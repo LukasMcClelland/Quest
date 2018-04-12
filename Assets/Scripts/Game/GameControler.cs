@@ -235,7 +235,7 @@ public class GameControler : Controler
         boardUI.SetActive(true);
         if (KingsRec) KingsRec = !used;
         ifDisplay.setText(UpdateInfo(0));
-        //pop.EnableBlockScreen(players[turn], turn);
+        pop.EnableBlockScreen(players[turn], turn);
         ToggleBoard(turn, 0);
         SetGlow(turn);
         for (int i = 0; i < players.Count; i++)

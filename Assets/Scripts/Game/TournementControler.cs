@@ -39,15 +39,17 @@ public class TournementControler : Controler
     }
 
     public override void join(bool choice){
-        HandleTextFile.WriteLog((GameControler.LogLine+=1) + " Action Log: Player Joins the Tournament " + choice, GameControler.SName);
         joined[turn] = choice;
         if(PhotonNetwork.player.ID != turn+1){pop.EnableJoinBlockScreen(turn, choice);}
         else{pop.EnableWaitScreen();}
+        HandleTextFile.WriteLog((GameControler.LogLine += 1) + " Player " + (turn+1) + "'s choice has been shown to other players, #BNF-30", GameControler.SName);
         turnsPassed++;
         TurnOrder();
         SetGlow(turn);
         pop.EnableTournamentBlockScreen(players[turn], turn);
         if (choice == true) { joinedPlayers++; }
+        HandleTextFile.WriteLog((GameControler.LogLine += 1) + " Action Log: Player "+(turn+1)+" Joins the Tournament : " + choice + ", #BNF-30", GameControler.SName);
+
         if (turnsPassed > 3) { Start(); }
     //AI Logic
         if (players[turn].GetComponent<AiPlayer>() != null){

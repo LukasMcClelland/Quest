@@ -4,6 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class QuestWinnerPopup : MonoBehaviour {
-    public List<Image> playerPics;
+    public List<GameObject> playerPics;
     public List<Text> texts;
 }
